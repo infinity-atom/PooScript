@@ -8,6 +8,9 @@ Then, open it up in a text editor. (vscode is recommended)<br>
 On each line, type a function in this format:<br>
 `function:argument:(repeat each argument):use argument`<br>
 A use argument is defining what to do with output.<br>
+# How to run a script
+In the command prompt, type the command like this:<br>
+`{path}\interpret.exe (script path)`
 # List of functions
 ## Send
 Syntax<br><hr>
