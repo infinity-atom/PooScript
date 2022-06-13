@@ -1,0 +1,7 @@
+! PooScript Official Example Files
+! UserInput.poo
+
+! send the input to the console
+
+send:Type something, then it will appear in the console!
+ask:Type here> :send
