@@ -34,4 +34,4 @@ Arguments<br><hr>
 <br>
 <br>
 <hr>
-PooScript by InfinityAtom (Leonard J) is licenced under the GNU General Public Licence 3
+PooScript by InfinityAtom (Leonard J) is licenced under the GNU General Public Licence v3.0
