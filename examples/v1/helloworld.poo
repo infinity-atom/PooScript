@@ -1,0 +1,6 @@
+! PooScript Official Example Files
+! HelloWorld.poo
+
+! send hello world to the console
+
+send:Hello World
